@@ -1,9 +1,4 @@
-# Fabric Example Mod
+# Dyeable Sea Lanterns
 
-## Setup
+![2022-09-25_01 44 02](https://user-images.githubusercontent.com/54965686/192136334-2299dcd0-2f01-4d95-b2e7-ccced876c89c.png)
 
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
-
-## License
-
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
