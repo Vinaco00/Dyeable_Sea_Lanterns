@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "dyablesealanterns:block/lime_sea_lantern"
+  }
+}

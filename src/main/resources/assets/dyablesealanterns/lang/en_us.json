@@ -1,0 +1,20 @@
+{
+  "block.dyablesealanterns.white_sea_lantern": "White Sea Lantern",
+  "block.dyablesealanterns.orange_sea_lantern": "Orange Sea Lantern",
+  "block.dyablesealanterns.magenta_sea_lantern": "Magenta Sea Lantern",
+  "block.dyablesealanterns.light_blue_sea_lantern": "Light Blue Sea Lantern",
+  "block.dyablesealanterns.yellow_sea_lantern": "Yellow Sea Lantern",
+  "block.dyablesealanterns.lime_sea_lantern": "Lime Sea Lantern",
+  "block.dyablesealanterns.pink_sea_lantern": "Pink Sea Lantern",
+  "block.dyablesealanterns.gray_sea_lantern": "Gray Sea Lantern",
+  "block.dyablesealanterns.light_gray_sea_lantern": "Light Gray Sea Lantern",
+  "block.dyablesealanterns.cyan_sea_lantern": "Cyan Sea Lantern",
+  "block.dyablesealanterns.purple_sea_lantern": "Purple Sea Lantern",
+  "block.dyablesealanterns.blue_sea_lantern": "Blue Sea Lantern",
+  "block.dyablesealanterns.brown_sea_lantern": "Brown Sea Lantern",
+  "block.dyablesealanterns.green_sea_lantern": "Green Sea Lantern",
+  "block.dyablesealanterns.red_sea_lantern": "Red Sea Lantern",
+  "block.dyablesealanterns.black_sea_lantern": "Black Sea Lantern",
+
+  "itemGroup.dyablesealanterns.dyablesealanterns": "Dyable Sea Lanterns"
+}
